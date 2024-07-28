@@ -1,4 +1,3 @@
-apt-xapian-index==0.49
 bcc==0.29.1
 blinker==1.7.0
 Brotli==1.1.0
